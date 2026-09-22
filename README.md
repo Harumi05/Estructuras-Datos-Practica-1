@@ -20,6 +20,8 @@ aplicados a un conjunto de palabras.
 - STL
 - std::vector
 - std::chrono
+-<string>
+- <algorithm>
 
 ## Estructura del repositorio
 
