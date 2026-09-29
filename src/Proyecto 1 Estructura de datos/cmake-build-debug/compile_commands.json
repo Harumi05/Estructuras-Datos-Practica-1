@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Juliana/Desktop/Programacion Haru/Clion Programacion Haru/Clion Harumi-20260820T161923Z-1-001/Clion Harumi/Proyecto 1 Estructura de datos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\Proyecto1.dir\\main.cpp.obj -c \"C:\\Users\\Juliana\\Desktop\\Programacion Haru\\Clion Programacion Haru\\Clion Harumi-20260820T161923Z-1-001\\Clion Harumi\\Proyecto 1 Estructura de datos\\main.cpp\"",
+  "file": "C:/Users/Juliana/Desktop/Programacion Haru/Clion Programacion Haru/Clion Harumi-20260820T161923Z-1-001/Clion Harumi/Proyecto 1 Estructura de datos/main.cpp",
+  "output": "C:/Users/Juliana/Desktop/Programacion Haru/Clion Programacion Haru/Clion Harumi-20260820T161923Z-1-001/Clion Harumi/Proyecto 1 Estructura de datos/cmake-build-debug/CMakeFiles/Proyecto1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Juliana/Desktop/Programacion Haru/Clion Programacion Haru/Clion Harumi-20260820T161923Z-1-001/Clion Harumi/Proyecto 1 Estructura de datos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\Proyecto1.dir\\Introsort.cpp.obj -c \"C:\\Users\\Juliana\\Desktop\\Programacion Haru\\Clion Programacion Haru\\Clion Harumi-20260820T161923Z-1-001\\Clion Harumi\\Proyecto 1 Estructura de datos\\Introsort.cpp\"",
+  "file": "C:/Users/Juliana/Desktop/Programacion Haru/Clion Programacion Haru/Clion Harumi-20260820T161923Z-1-001/Clion Harumi/Proyecto 1 Estructura de datos/Introsort.cpp",
+  "output": "C:/Users/Juliana/Desktop/Programacion Haru/Clion Programacion Haru/Clion Harumi-20260820T161923Z-1-001/Clion Harumi/Proyecto 1 Estructura de datos/cmake-build-debug/CMakeFiles/Proyecto1.dir/Introsort.cpp.obj"
+}
+]

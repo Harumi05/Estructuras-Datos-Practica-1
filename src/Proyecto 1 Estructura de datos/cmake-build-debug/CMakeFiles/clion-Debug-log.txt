@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Juliana\Desktop\Programacion Haru\Clion Programacion Haru\Clion Harumi-20260820T161923Z-1-001\Clion Harumi\Proyecto 1 Estructura de datos Select CMakeLists.txt
